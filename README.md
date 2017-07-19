@@ -1,2 +1,2 @@
 # SpringCloudLearning
-SpringCloud学习demo-----------test，之后会删除
+SpringCloud学习demo
